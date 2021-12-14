@@ -1,10 +1,13 @@
 <resources>
-    <string name="app_name">MySubscribers</string>
+    <string name="app_name">Seja bem vindos</string>
 
     <!---SubscriberFragment-->
     <string name="subscriber_name_hint">Subscriber\'s name</string>
     <string name="subscriber_email_hint">E-mail</string>
     <string name="subscriber_button">Add</string>
     <string name="subscriber_title">Subscriber</string>
-
+    <string name="subscriber_insert_successfully">Subscriber was successfully insert</string>
+    <string name="subscriber_error_to_insert">There was an error when inserting Subscriber</string>
+    <string name="avancar">Iniciar</string>
+    <string name="informe_seu_email_para_criar_ou_reiniciar_sua_assinatura">Informe seu email para criar ou reiniciar sua assinatura.</string>
 </resources>

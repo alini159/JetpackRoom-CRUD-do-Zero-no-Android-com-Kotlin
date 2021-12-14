@@ -3,8 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/alini/AndroidStudioProjects/MySubscribers/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/alini/AndroidStudioProjects/MySubscribers/app/src/main/res/drawable/botton.xml" value="0.2203125" />
+        <entry key="..\:/Users/alini/AndroidStudioProjects/MySubscribers/app/src/main/res/drawable/ic_add.xml" value="0.2169230769230769" />
         <entry key="..\:/Users/alini/AndroidStudioProjects/MySubscribers/app/src/main/res/layout/activity_main.xml" value="0.18" />
-        <entry key="..\:/Users/alini/AndroidStudioProjects/MySubscribers/app/src/main/res/layout/subscriber_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/alini/AndroidStudioProjects/MySubscribers/app/src/main/res/layout/splash_screen_fragment.xml" value="0.18614130434782608" />
+        <entry key="..\:/Users/alini/AndroidStudioProjects/MySubscribers/app/src/main/res/layout/subscriber_fragment.xml" value="0.22" />
+        <entry key="..\:/Users/alini/AndroidStudioProjects/MySubscribers/app/src/main/res/layout/subscriber_item.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/alini/AndroidStudioProjects/MySubscribers/app/src/main/res/layout/subscriber_list_fragment.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/alini/AndroidStudioProjects/Projetos-Pessoais/MySubscribers/app/src/main/res/layout/subscriber_item.xml" value="0.161231884057971" />
       </map>
     </option>
   </component>
